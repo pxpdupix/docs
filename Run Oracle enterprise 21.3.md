@@ -80,4 +80,6 @@
     
 10. Obtain container IP
         
-        `docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' testdb`
+        ```
+        docker inspect -f '{{range .NetworkSettings.Networks}}{{.IPAddress}}{{end}}' testdb
+        ```
