@@ -5,15 +5,15 @@
     
     1. Select Database
         
-        ![alt text](images/image.png)
+        ![alt text](../images/image.png)
         
     2. select enterprise Repository
         
-        ![alt text](images/image-1.png)
+        ![alt text](../images/image-1.png)
         
     3. sign in and accept EULA
         
-        ![alt text](images/image-2.png)
+        ![alt text](../images/image-2.png)
         
 3. Login with docker
     
